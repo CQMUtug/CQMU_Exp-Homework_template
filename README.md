@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Latex Template for CQMU Report
+  Latex Template for `CQMU_Common-Experiment-Homework_template`
 </p>
 
 
