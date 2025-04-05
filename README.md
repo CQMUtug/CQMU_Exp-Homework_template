@@ -14,7 +14,7 @@
 ## 模板下载
 
 * 页面右边点击：**Clone or download -> Download Zip**
-* 已经上传至Overleaf 和 TexPage 模板，开箱即用 ☞ [Overleaf](https://www.overleaf.com/latex/templates/cqmu-researchreport/qghkqhhtzfkp)
+* 已经上传至Overleaf官网模板，开箱即用 ☞ [Overleaf](https://www.overleaf.com/latex/templates/cqmu-researchreport/qghkqhhtzfkp)
 
 ## 使用方法
 默认模板文件由以下四部分组成：
@@ -31,9 +31,9 @@
 
 ---------
 
-|  [封面效果图](https://github.com/NorthSecond/SYSU_Latex_Template/blob/main/figures/sysu_report.png) |  [目录效果图](https://github.com/NorthSecond/Latex_Template/blob/main/figures/index.png)| 
+|  封面效果图 | 目录效果图| 
 |:---:|:---:|
-| ![](https://github.com/NorthSecond/SYSU_Latex_Template/blob/main/figures/sysu_report.png?raw=true) | ![](https://github.com/NorthSecond/SYSU_Latex_Template/blob/main/figures/index.png?raw=true)| 
+| ![](https://github.com/CQMUtug/CQMU_Exp-Homework_template/blob/main/figures/cover.png) | ![](https://github.com/CQMUtug/CQMU_Exp-Homework_template/blob/main/figures/catalog.png)| 
 
 ## 参考
 
