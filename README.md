@@ -3,13 +3,20 @@
 </h1>
 
 <p align="center">
-  Latex Template for `CQMU_Common-Experiment-Homework_template`
+  Latex Template for *CQMU_Common-Experiment-Homework_template*
 </p>
 
 
 ## 介绍
 - 用于重庆医科大学（CQMU）课程大作业/结课汇报的通用简易Latex模板
 - 在[国科大模板](https://github.com/jweihe/UCAS_Latex_Template)的基础上进行了修改
+
+### 允许使用的课程
+
+- [x] 自然语言处理与电子病历挖掘课程设计-王浩林老师
+- [x] 信息服务与用户研究、信息检索-侯筱蓉老师
+- [ ] 医院信息系统开发-熊欣老师
+- [ ] 信息安全管理、网络技术、Linux-赖清老师
 
 ## 模板下载
 
