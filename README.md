@@ -8,7 +8,7 @@
 
 
 ## 介绍
-- 用于重庆医科大学（CQMU）课程大作业/结课汇报的通用简易Latex模板
+- 用于重庆医科大学（CQMU）课程大作业/非定性实验报告/结课汇报的通用简易Latex模板
 - 在[国科大模板](https://github.com/jweihe/UCAS_Latex_Template)的基础上进行了修改
 
 ### 允许使用的课程
